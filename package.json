@@ -48,6 +48,7 @@
     "@types/react": "latest",
     "@types/react-dom": "latest",
     "@vitejs/plugin-react": "4.3.1",
+    "@tailwindcss/vite": "^4.1.0",
     "class-variance-authority": "latest",
     "clsx": "latest",
     "cmdk": "^1.1.1",
@@ -71,6 +72,7 @@
     "vaul": "^1.1.2",
     "vite": "5.4.19",
     "wouter": "^3.3.5",
-    "zod": "latest"
+    "zod": "latest",
+    "lightningcss": "^1.30.1"
   }
 }
